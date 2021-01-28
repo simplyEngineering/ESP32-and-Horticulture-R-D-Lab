@@ -10,7 +10,7 @@ To conveniently facilitate local off-site R&D  for the https://github.com/simply
 </tr>
 <tr>
 	<td><image src = "images/Vegtrug frame with cover.jpg"></td>
-	<td><image src = "images/VegTrug%20in%20situ%20(cockpit).jpg"></td>
+	<td><image src = "./images/VegTrug%20in%20situ%20(cockpit).jpg"></td>
 </tr>
 </table><br><br>
 
