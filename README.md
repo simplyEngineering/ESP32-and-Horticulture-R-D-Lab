@@ -1,6 +1,6 @@
 # The 'VegBot' R&D lab
 <br>
-To conveniently facilitate local off-site R&D  for the https://github.com/simplyEngineering/ESP32-and-Horticulture, project, a small greenhouse 'lab' was constructed, based upon a <a href="https://www.quickcrop.co.uk/product/vegtrug-tomato-greenhouse"> 'VegTrug' Tomato greenhouse</a>. This structure has a small footprint, alowing it to be  unusually located within the cockpit of 'Lena Mary', my dry-docked Moody 40 sailing yacht stripped of its steering gear.
+To conveniently facilitate local convenient off-site R&D facilities  for the <a href="https://github.com/simplyEngineering/ESP32-and-Horticulture">ESP32 and Horticulture R&D Lab</a> project, a small greenhouse 'lab' was constructed, based upon a <a href="https://www.quickcrop.co.uk/product/vegtrug-tomato-greenhouse"> 'VegTrug' Tomato greenhouse</a>. This structure has a small footprint, alowing it to be  unusually located within the cockpit of 'Lena Mary', my dry-docked Moody 40 sailing yacht stripped of its steering gear.
 <br>
 <br>
 <table>
