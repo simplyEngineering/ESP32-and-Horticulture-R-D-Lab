@@ -56,6 +56,7 @@ To conveniently facilitate local off-site R&D  for the https://github.com/simply
 </table>
 <br><br>
 	
-# This is an active project - watch this space for further material<br>
+# This is an active project - watch this space for further material<br><br>
+## See also the <a href="https://github.com/simplyEngineering/ESP32-and-Horticulture">ESP32-and-Horticulture</a> repository to which this relates.<br><br>
 	
 ### Enquiries to:&nbsp;&nbsp;<a href="mailto://stuart@ceng.me.uk?subject=ESP32 and Horticulture">Stuart A Spray C.Eng MIEE</a>
