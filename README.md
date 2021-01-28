@@ -41,9 +41,9 @@ To conveniently facilitate local convenient off-site R&D facilities  for the <a 
 		</ul>
 		The backup battery is continuously charged from the USB power supply and maintains measurement and communications functionality in the event of mains failure.
 		<br><br>
-		The 8-port 5V usb power supply delivers power to the Locxal Host Module, transducer fan, Camera module and recirculation and ventilation fans.
+		The 8-port 5V usb power supply delivers power to the Local Host Module, transducer fan, Camera Module and recirculation and ventilation fans.
 		<br><br>
-		The ESP8266 Master module (described above) is equipped with a fan which ensures that the transducers are continuously fed with ambient air, without which the control loops would suffer considerable lag and significant deviation from their setpoints.
+		The ESP8266 Local Host Module is equipped with a fan which ensures that the transducers are continuously fed with ambient air, without which the control loops would suffer considerable lag and significant deviation from their setpoints.
 		<br><br>
 		The ESP32-CAM Camera module.
 		</td></tr>
